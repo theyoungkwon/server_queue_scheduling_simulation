@@ -2,6 +2,7 @@
 
 #### Description
 Analyzed conditions which cause bottle neck situation in a simulated environment. 
+
 Improved the efficiency of server queue scheduling with limited resources.
 
 
